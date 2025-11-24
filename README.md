@@ -326,4 +326,4 @@ Given the results, for this title the extended model is the **preferred decision
 
 ---
 
-# END OR REPORT
+# END OF REPORT
